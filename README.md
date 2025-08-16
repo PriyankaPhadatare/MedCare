@@ -38,7 +38,7 @@ It allows patients to manage appointments, view their medical history, and conne
 - Notifications via Email/SMS for reminders
 
 ## 📂 Project Structure
-
+```
 ### **Backend (Django REST API)**
 medcare_backend/
 ├── manage.py
@@ -61,12 +61,12 @@ medcare_backend/
 ├── serializers.py
 ├── views.py
 └── urls.py
-
+```
 ### **Frontend (Angular)**
 
 ---
 
----
+```
 medcare-frontend/
 ├── src/
 │ ├── app/
@@ -102,7 +102,7 @@ medcare-frontend/
 │ │ └── app.module.ts
 
 
-
+```
 ---
 
 ---
