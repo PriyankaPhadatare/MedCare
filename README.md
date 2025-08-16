@@ -64,7 +64,9 @@ medcare_backend/
 
 ### **Frontend (Angular)**
 
+---
 
+---
 medcare-frontend/
 ├── src/
 │ ├── app/
