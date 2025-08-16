@@ -13,7 +13,7 @@ It allows patients to manage appointments, view their medical history, and conne
 | **Mayuri Surve**         |
 | **Siddhi Patil**         |
 
-##🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 -AI-Powered Symptom Checker 🤖
 
